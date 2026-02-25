@@ -1,0 +1,11 @@
+city,travel,electricity_kwh,diet,exercise,aqi
+Chennai,Car,220,Mixed,Medium,145
+Mumbai,Bus,160,Vegetarian,Low,120
+Delhi,Bike,190,Non-Vegetarian,High,170
+Bangalore,Walk,130,Vegetarian,Medium,90
+Hyderabad,Car,250,Mixed,Low,155
+Kolkata,Bus,180,Mixed,Medium,135
+Pune,Bike,140,Vegetarian,High,95
+Jaipur,Car,210,Non-Vegetarian,Low,160
+Coimbatore,Walk,110,Vegetarian,Medium,80
+Madurai,Bus,170,Mixed,Medium,125
